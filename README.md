@@ -7,3 +7,8 @@ Projeto Pokedex criado no Bootcamp Orange Tech+ na DIO.
   </kbd>
 </p>
 
+## Tecnologias utilizadas
+
+- JavaScript
+- HTML
+- CSS
